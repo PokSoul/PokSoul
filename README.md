@@ -1,7 +1,9 @@
 ### Hi there 👋
 
+### Hi there 👋
+
 <!--
-**PokSoul/PokSoul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sebtex1/sebtex1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +16,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<a href="https://app.daily.dev/MEECHAI_Vincent"><img src="https://api.daily.dev/devcards/41494f73a39d47c9af1dd14ff553a534.png?r=e2n" width="400" alt="MEECHAI Vincent's Dev Card"/></a>
