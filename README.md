@@ -11,7 +11,7 @@ Hey there 👋
 
 - 🤝 I’m looking for help with **an IOT project**
 
-- 👨‍💻 All of my projects are available at [https://github.com/PokSoul](https://github.com/PokSoul)
+- 👨‍💻 All of my projects are available at [https://github.com/PokSoul](https://github.com/PokSoul?tab=repositories)
 
 - 💬 Ask me about **react, kotlin, android**
 
