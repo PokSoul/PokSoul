@@ -41,7 +41,8 @@ Hey there 👋
 
 ![](https://img.shields.io/badge/Code-React-informational?style=?style=for-the-badge&logo=react&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
-
+![](https://img.shields.io/badge/Code-Android-informational?style=?style=for-the-badge&logo=android&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Kotlin-informational?style=?style=for-the-badge&logo=kotlin&logoColor=white&color=4AB197)
 
 
 <details>
