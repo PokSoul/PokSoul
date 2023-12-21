@@ -7,10 +7,7 @@
 
 Hey there 👋
 
-- 🔭 I’m currently working on [XLConcept](https://www.xlconcept.fr/)
-
-- 🤝 I’m looking for help with **an IOT project**
-
+- 🔭 I’m currently search a work
 - 👨‍💻 All of my projects are available at [https://github.com/PokSoul](https://github.com/PokSoul?tab=repositories)
 
 - 💬 Ask me about **react, kotlin, android**
